@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/input-sources/tdosca-tc07.iml" filepath="$PROJECT_DIR$/input-sources/tdosca-tc07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tdosca-tc07-hierhw.iml" filepath="$PROJECT_DIR$/.idea/tdosca-tc07-hierhw.iml" />
+    </modules>
+  </component>
+</project>
